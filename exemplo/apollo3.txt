@@ -1,0 +1,4 @@
+Foto: Segundo voo tripulado a pousar na Lua
+Duração: 10 dias
+Orbitas Lunares: 45
+Descrição: Apollo 11 foi um um voo para teste que é do git
